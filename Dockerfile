@@ -1,5 +1,5 @@
 FROM elasticsearch
-MAINTAINER Michael Garrez <michael.garrez@gmail.com>
+MAINTAINER Ghislain GAUCHER <ghislain@qtf.lu>
 
 ENV REFRESHED_AT 2016-02-12
 
